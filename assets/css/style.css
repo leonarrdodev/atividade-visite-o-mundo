@@ -1,0 +1,18 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.logo{
+    color: #000;
+    text-decoration: none;
+    font-size: 1.3rem;
+    margin-right: 1.5rem;
+}
+
+.img-hero{
+    height: 90vh;
+}
+
+.destinos-img{
+    height: 400px;
+}
